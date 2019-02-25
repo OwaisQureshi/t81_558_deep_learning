@@ -1,6 +1,8 @@
 # T81 558:Applications of Deep Neural Networks
 [Washington University in St. Louis](http://www.wustl.edu)
 
+**Forked:** Tensorflow V1.12.0 and Python v3.6
+
 Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
 **The content of this course changes as technology evolves**, to keep up to date with changes [follow me on GitHub](https://github.com/jeffheaton).
